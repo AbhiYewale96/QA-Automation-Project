@@ -69,7 +69,6 @@ src/test/java
 ---
 
 ## 📸 Screenshots
-(Add your screenshot here)
 
 Example:
 ![Login Test](Screenshots/login.png)
