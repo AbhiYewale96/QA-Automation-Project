@@ -72,9 +72,9 @@ src/test/java
 (Add your screenshot here)
 
 Example:
-![Login Test](screenshots/login.png)
-![Success](screenshots/success.png)
-![Test](screenshots/test.png)
+![Login Test](Screenshots/login.png)
+![Success](Screenshots/success.png)
+![Test](Screenshots/test.png.png)
 
 ---
 
